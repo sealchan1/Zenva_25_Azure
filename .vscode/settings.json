@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ad6a8e76-3f08-4850-ba9c-047fadabe475/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/sealchan-app-1",
+    "appService.deploySubpath": "."
+}

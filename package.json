@@ -1,0 +1,22 @@
+{
+  "name": "zenva_14_express",
+  "version": "1.0.0",
+  "description": "My first Express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "pull.bat",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "hjs": "^0.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
