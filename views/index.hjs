@@ -6,6 +6,7 @@
 
     <body>
         <div class="container">
+            <h1>Hello from Github!</h1>
             <h1>This is the {{name}} Template :-)</h1>
             <p>
                 Today is {{date}}.  
